@@ -3,7 +3,7 @@
 # Math Magicians
 
 > Description the project.
-- simple React web application.
+- simple React web application, that displays a basic calculator layout.
 - configure with linters 
 
 # Getting Started
