@@ -40,6 +40,12 @@ body {
 ._answer {
   color: #fff;
   padding-right: 20px;
+  width: 100%;
+  height: 100%;
+  text-align: end;
+  font-size: 30px;
+  border: none;
+  background-color: rgb(109, 109, 109);
 }
 
 .colum_1,
