@@ -2,9 +2,8 @@
 /* eslint-disable react/jsx-boolean-value */
 /* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 /* eslint-disable jsx-a11y/click-events-have-key-events */
-import '../style.css';
 import React, { useState } from 'react';
-import calculate from './logic/calculate';
+import calculate from '../logic/calculate';
 
 function Calculator() {
   const [state, setState] = useState({
@@ -25,6 +24,11 @@ function Calculator() {
 
   return (
     <div className="calculator_div">
+      <div className="lets_do_maths_div">
+        <h2 className="lets_do_maths_text"> Lets do some math!</h2>
+        <img src="./maths_image.png" alt="maths" className="image_file" />
+      </div>
+
       <div className="calculator_main_container">
 
         <div className="answer">
