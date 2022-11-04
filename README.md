@@ -2,6 +2,9 @@
 
 # Math Magicians
 
+![Screenshot 2022-11-03 174032](https://user-images.githubusercontent.com/38554511/199857171-3828d3fb-870b-4d4c-aebb-61677e86123f.png)
+
+
 > Description the project.
 - simple React web application, that displays a basic calculator layout.
 - configure with linters 
