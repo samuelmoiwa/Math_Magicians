@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samuelmoiwa/Math_Magicians/static/css/main.e4789b8f.css",
+    "main.js": "/samuelmoiwa/Math_Magicians/static/js/main.50f162e4.js",
+    "index.html": "/samuelmoiwa/Math_Magicians/index.html",
+    "main.e4789b8f.css.map": "/samuelmoiwa/Math_Magicians/static/css/main.e4789b8f.css.map",
+    "main.50f162e4.js.map": "/samuelmoiwa/Math_Magicians/static/js/main.50f162e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4789b8f.css",
+    "static/js/main.50f162e4.js"
+  ]
+}
